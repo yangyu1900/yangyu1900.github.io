@@ -3,7 +3,7 @@ entries:
   azure-api-management-gateway:
   - apiVersion: v2
     appVersion: 2.9.2
-    created: "2025-09-15T22:52:21.8554789+08:00"
+    created: "2025-09-15T23:08:23.3742038+08:00"
     description: A Helm chart to deploy the self-hosted gateway of Azure API Management
       on Kubernetes
     digest: 357056ce220612b3c4a3a01ab8f0492d5476bd268932e3854d39d1ccec9ec7e8
@@ -41,6 +41,6 @@ entries:
     sources:
     - https://github.com/Azure/api-management-self-hosted-gateway
     urls:
-    - https://yangyu1900.github.io/myAPIMSelfHostedGateway/helm/azure-api-management-gateway-1.13.2.tgz
+    - https://yangyu1900.github.io/helm/azure-api-management-gateway-1.13.2.tgz
     version: 1.13.2
-generated: "2025-09-15T22:52:21.8533344+08:00"
+generated: "2025-09-15T23:08:23.3556271+08:00"

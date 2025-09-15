@@ -1,0 +1,46 @@
+apiVersion: v1
+entries:
+  azure-api-management-gateway:
+  - apiVersion: v2
+    appVersion: 2.9.2
+    created: "2025-09-15T22:52:21.8554789+08:00"
+    description: A Helm chart to deploy the self-hosted gateway of Azure API Management
+      on Kubernetes
+    digest: 357056ce220612b3c4a3a01ab8f0492d5476bd268932e3854d39d1ccec9ec7e8
+    home: https://azure.microsoft.com/en-us/services/api-management/
+    icon: https://github.com/Azure/API-Management/raw/main/media/apim-logo.png
+    keywords:
+    - Microsoft Azure
+    - Azure
+    - APIs
+    - API Monetization
+    - API Ecosystem
+    - API Gateway
+    - API Management
+    - Cloud
+    - Multi-Cloud
+    - Hybrid
+    - Kubernetes
+    - Cloud-Native
+    - gRPC
+    - GraphQL
+    - REST
+    - OData
+    - SOAP
+    - AI
+    - GenAI
+    - Generative AI
+    - Artificial Intelligence
+    kubeVersion: '>=v1.20.0-0'
+    maintainers:
+    - name: Vlad Vinogradsky
+      url: https://github.com/vladvino
+    - name: Tom Kerkhove
+      url: https://github.com/tomkerkhove
+    name: azure-api-management-gateway
+    sources:
+    - https://github.com/Azure/api-management-self-hosted-gateway
+    urls:
+    - https://yangyu1900.github.io/myAPIMSelfHostedGateway/helm/azure-api-management-gateway-1.13.2.tgz
+    version: 1.13.2
+generated: "2025-09-15T22:52:21.8533344+08:00"
